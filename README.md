@@ -1,8 +1,8 @@
 ## neoG-markTwelev- Fun with Triangle
-    * Take three angle input from user and check if the input's make triangle of not.
-    * Calculating Hypotenuse
-    * Calculating area of triangle from user inputs triangle base and triangle height.
-    * Quiz on triangle where each correct answer will increment the score.
+    * Take three angle input from user and check if the input's make triangle or not.
+    * Calculate Hypotenuse
+    * Calculate area of triangle based on users input.
+    * Quiz on triangle where each correct answer will increment score by one point.
 
 ## Technology Used:
 * HTML
