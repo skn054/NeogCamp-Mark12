@@ -1,4 +1,4 @@
-## neoG-markTwelev- Fun with Triangle
+## NeoG-markTwelev- Fun with Triangle
     * Take three angle input from user and check if the input's make triangle or not.
     * Calculate Hypotenuse
     * Calculate area of triangle based on users input.
